@@ -1,4 +1,4 @@
-# Smart-Meters-Forcasting
+# Smart-Meters-Forecasting
 
 This repository contains two key components aimed at analyzing smart meter data and implementing deep learning models for predictive analytics.
 
